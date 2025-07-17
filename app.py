@@ -1,0 +1,3 @@
+# Chatbot-Wiki (Final Version)
+# Enhanced version with authentication, Firestore, PDF export, dashboard, and navigation
+# TO BE FILLED with full final code...

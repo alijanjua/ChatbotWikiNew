@@ -1,4 +1,11 @@
 streamlit
+firebase-admin
 requests
 wikipedia
-firebase-admin
+python-docx
+reportlab
+pandas
+google-auth
+google-auth-oauthlib
+google-cloud-firestore
+PyPDF2
